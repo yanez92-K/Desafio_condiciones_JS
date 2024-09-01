@@ -2,6 +2,6 @@
 
 ## Deploy 🚀
 
-__
+_https://yanez92-k.github.io/Desafio_condiciones_JS/_
 
 Mira el link para conocer mi proyecto.
